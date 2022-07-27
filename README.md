@@ -63,7 +63,13 @@ https://semver.org/
     * https://docs.npmjs.com/cli/v8/commands/npm-ci
     * npm ci vs npm i
 ### package-lock.json
+ * https://docs.npmjs.com/cli/v8/configuring-npm/package-lock-json
 ### npm v 5.1.0 vs 5.4.2
 * https://stackoverflow.com/questions/45022048/why-does-npm-install-rewrite-package-lock-json
 ### npm workspace
+ * https://docs.npmjs.com/cli/v8/using-npm/workspaces
 ### npm package-spec
+ * https://docs.npmjs.com/cli/v8/using-npm/package-spec
+
+## nvm
+## Yarn
