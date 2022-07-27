@@ -29,6 +29,7 @@ https://semver.org/
   * https://docs.npmjs.com/about-audit-reports
   * https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities
 ### package-lock.json
+ * https://docs.npmjs.com/cli/v8/configuring-npm/package-lock-json
 
 ### npm peerDependencies
   * https://docs.npmjs.com/cli/v8/configuring-npm/package-json#peerdependencies
@@ -62,8 +63,6 @@ https://semver.org/
   * npm ci
     * https://docs.npmjs.com/cli/v8/commands/npm-ci
     * npm ci vs npm i
-### package-lock.json
- * https://docs.npmjs.com/cli/v8/configuring-npm/package-lock-json
 ### npm v 5.1.0 vs 5.4.2
 * https://stackoverflow.com/questions/45022048/why-does-npm-install-rewrite-package-lock-json
 ### npm workspace
